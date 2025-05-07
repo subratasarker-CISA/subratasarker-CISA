@@ -1,4 +1,7 @@
 # 👨‍💻 **Subrata Sarker** – Information Security Professional
+## 🖼️ **GitHub Banner**
+
+![Subrata Sarker - Cybersecurity Professional](https://github.com/subratasarker-CISA/subratasarker-CISA/blob/main/Your%20paragraph%20text%20(9).jpg)
 
 Welcome to my GitHub! I'm Subrata Sarker, an **Information Security Professional** with over **10 years** of global experience in **cybersecurity**, **risk management**, and **compliance**. I specialize in **Vulnerability Assessment & Penetration Testing (VAPT)**, **IT audits**, **incident response**, and **network security**. My expertise spans various industries including **fintech**, **telecom**, **government**, and **SaaS**.
 
@@ -69,14 +72,6 @@ Let's connect! Feel free to reach out to me for collaboration opportunities, con
 
 ## 🚀 **Let's Collaborate**
 Whether you're navigating **digital transformation**, **cloud migration**, or building a **mature cyber defense strategy**, I’m here to help. Feel free to reach out for any cybersecurity-related discussions, advice, or collaboration opportunities.
-
----
-
-## 🖼️ **GitHub Banner**
-
-![Subrata Sarker - Cybersecurity Professional](https://github.com/subratasarker-CISA/subratasarker-CISA/blob/main/Your%20paragraph%20text%20(9).jpg)
-
----
 
 **Thank you for visiting my GitHub!**  
 Let's work together to make the digital world safer!
