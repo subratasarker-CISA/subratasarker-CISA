@@ -1,5 +1,4 @@
 # 👨‍💻 **Subrata Sarker** – Information Security Professional
-## 🖼️ **GitHub Banner**
 
 ![Subrata Sarker - Cybersecurity Professional](https://github.com/subratasarker-CISA/subratasarker-CISA/blob/main/Your%20paragraph%20text%20(9).jpg)
 
