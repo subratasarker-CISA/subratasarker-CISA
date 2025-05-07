@@ -45,8 +45,7 @@ I work with a wide range of security tools and technologies to implement effecti
 ## 🧑‍💻 **Notable Projects**
 Here are a few of my key projects that showcase my cybersecurity expertise:
 
-- **(https://github.com/subratasarker-CISA/subratasarker-CISA/blob/main/DATABASE%20SECURITY%20CHECKLIST.pdf)**  
-  A suite of penetration testing tools and scripts to help assess network security and identify vulnerabilities.
+
 
 - **[SOC Incident Response Playbooks](https://github.com/your-username/project-name)**  
   A collection of playbooks for handling security incidents within a **Security Operations Center (SOC)**.
