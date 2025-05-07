@@ -65,7 +65,7 @@ Let's connect! Feel free to reach out to me for collaboration opportunities, con
 
 - 📞 **Phone**: +8801971652995
 - 📧 **Email**: [subrata.sarkerr@gmail.com](mailto:subrata.sarkerr@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/subrata-sarker](https://linkedin.com/in/subrata-sarker)
+- 🔗 **LinkedIn**: [linkedin.com/in/subrata-sarker](https://linkedin.com/in/subrata-sarker-cisa)
 
 ---
 
